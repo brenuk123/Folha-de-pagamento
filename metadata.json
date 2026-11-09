@@ -1,0 +1,6 @@
+{
+  "name": "Conciliador Protheus — Folha × Contabilidade",
+  "description": "Conciliação determinística entre Folha de Pagamento TOTVS Protheus (GPER106), Balancete (CTBR040) e Razão Contábil (CT2) com auditoria de pendências em centavos inteiros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

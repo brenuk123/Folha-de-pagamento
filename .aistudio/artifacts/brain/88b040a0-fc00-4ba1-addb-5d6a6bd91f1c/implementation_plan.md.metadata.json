@@ -1,0 +1,6 @@
+{
+  "summary": "Plano atualizado com os 8 ajustes solicitados: verificação das células brutas do Excel para Cont.Hist (confirmando que o Protheus remove o espaço inicial na coluna 41 em \"NFE 000000346\" e \"LTDA\" e definindo a regra de emenda sem trim nas pontas), filtro do CT2 pelo período do Balancete, escopo seletivo dos bloqueios (a bloqueia tudo; b e c bloqueiam apenas contas ligadas à folha no De/Para), funcionamento 100% offline/file:// por duplo clique no HTML com workers embutidos, precedência da tabela de lotes sobre a regex de letras, suporte aos códigos 1/2/3/4 e acentos em Tipo Lcto, selo e classificação para Estorno/Canc e renomeação para Três Validações + Resumo.",
+  "updatedAt": "2026-11-04T13:16:10.971838950Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
